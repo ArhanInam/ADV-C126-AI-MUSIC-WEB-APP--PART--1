@@ -1,0 +1,29 @@
+.heading
+{
+    font-size: 20px;
+    width: 100%;
+    margin: 0;
+    border-radius: 20px;
+}
+
+.note
+{
+    font-size: 17px;
+    color: darkcyan;
+}
+
+body
+{
+    background-size: cover;
+}
+
+#speed
+{
+    font-size: 23px;
+    margin: 15px;
+}
+
+#Icon
+{
+    border-radius: 50px;
+}
