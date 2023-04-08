@@ -27,3 +27,12 @@ body
 {
     border-radius: 50px;
 }
+
+canvas
+{
+    margin-top: 5px;
+    border: 10px;
+    border-radius: 20px;
+    border-color: greenyellow;
+    border-style: ridge;
+}
